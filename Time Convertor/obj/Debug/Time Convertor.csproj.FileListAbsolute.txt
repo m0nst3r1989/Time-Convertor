@@ -1,0 +1,11 @@
+C:\Users\edgar\source\repos\Time Convertor\bin\Debug\Time Convertor.exe.config
+C:\Users\edgar\source\repos\Time Convertor\bin\Debug\Time Convertor.exe
+C:\Users\edgar\source\repos\Time Convertor\bin\Debug\Time Convertor.pdb
+C:\Users\edgar\source\repos\Time Convertor\obj\Debug\Time Convertor.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\Time Convertor\obj\Debug\Time Convertor.csproj.SuggestedBindingRedirects.cache
+C:\Users\edgar\source\repos\Time Convertor\obj\Debug\Time_Convertor.Form1.resources
+C:\Users\edgar\source\repos\Time Convertor\obj\Debug\Time_Convertor.Properties.Resources.resources
+C:\Users\edgar\source\repos\Time Convertor\obj\Debug\Time Convertor.csproj.GenerateResource.cache
+C:\Users\edgar\source\repos\Time Convertor\obj\Debug\Time Convertor.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\Time Convertor\obj\Debug\Time Convertor.exe
+C:\Users\edgar\source\repos\Time Convertor\obj\Debug\Time Convertor.pdb
